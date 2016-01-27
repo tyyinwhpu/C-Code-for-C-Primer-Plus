@@ -32,7 +32,7 @@ public class TTY{
 
 using namaspace std;
 
-public class TTY{
+class TTY{
   
   public:
       TTY(){}
