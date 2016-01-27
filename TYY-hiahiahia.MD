@@ -34,6 +34,11 @@ using namaspace std;
 
 public class TTY{
   
+  public:
+      TTY(){}
+      
+      ~TTY(){}
+  
   int main( int argc, char *argv[] ) {
   
     PullRequest request;
