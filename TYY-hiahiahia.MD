@@ -47,6 +47,8 @@ public class TTY{
     request.commit();
     
     cout << "merging into TYY...please wait!" << endl ;
+    
+    return 0;
   }
 }
 ```
